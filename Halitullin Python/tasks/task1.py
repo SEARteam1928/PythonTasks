@@ -1,5 +1,3 @@
-import random
-
 def task1(arrayInt):
     print("Создана Последовательность чисел: ", str(arrayInt))
     i = 0
